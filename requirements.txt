@@ -1,0 +1,7 @@
+streamlit
+skyfield
+pymap3d
+shapely
+pandas
+numpy
+requests
