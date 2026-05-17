@@ -28,6 +28,10 @@ Drone/output/
 *.swp
 *.swo
 
+# Copilot/agent metadata
+.agent/
+.agents/
+
 # OS files
 .DS_Store
 Thumbs.db
